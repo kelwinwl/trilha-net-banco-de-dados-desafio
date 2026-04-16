@@ -44,48 +44,48 @@ Você deverá criar diversas consultas, com o objetivo de retornar os dados a se
 
 ## 1 - Buscar o nome e ano dos filmes
 
-![Exercicio 1](Imagens/1.png)
+![Resposta Exercício 1](Imagens/1R.png)
 
 ## 2 - Buscar o nome e ano dos filmes, ordenados por ordem crescente pelo ano
 
-![Exercicio 2](Imagens/2.png)
+![Resposta Exercicio 2](Imagens/2R.png)
 
 ## 3 - Buscar pelo filme de volta para o futuro, trazendo o nome, ano e a duração
 
-![Exercicio 3](Imagens/3.png)
+![Resposta Exercicio 3](Imagens/3R.png)
 
 ## 4 - Buscar os filmes lançados em 1997
 
-![Exercicio 4](Imagens/4.png)
+![Resposta Exercicio 4](Imagens/4R.png)
 
 ## 5 - Buscar os filmes lançados APÓS o ano 2000
 
-![Exercicio 5](Imagens/5.png)
+![Resposta Exercicio 5](Imagens/5R.png)
 
 ## 6 - Buscar os filmes com a duracao maior que 100 e menor que 150, ordenando pela duracao em ordem crescente
 
-![Exercicio 6](Imagens/6.png)
+![Resposta Exercicio 6](Imagens/6R.png)
 
 ## 7 - Buscar a quantidade de filmes lançadas no ano, agrupando por ano, ordenando pela duracao em ordem decrescente
 
-![Exercicio 7](Imagens/7.png)
+![Resposta Exercicio 7](Imagens/7R.png)
 
 ## 8 - Buscar os Atores do gênero masculino, retornando o PrimeiroNome, UltimoNome
 
-![Exercicio 8](Imagens/8.png)
+![Resposta Exercicio 8](Imagens/8R.png)
 
 ## 9 - Buscar os Atores do gênero feminino, retornando o PrimeiroNome, UltimoNome, e ordenando pelo PrimeiroNome
 
-![Exercicio 9](Imagens/9.png)
+![Resposta Exercicio 9](Imagens/9R.png)
 
 ## 10 - Buscar o nome do filme e o gênero
 
-![Exercicio 10](Imagens/10.png)
+![Resposta Exercicio 10](Imagens/10R.png)
 
 ## 11 - Buscar o nome do filme e o gênero do tipo "Mistério"
 
-![Exercicio 11](Imagens/11.png)
+![Resposta Exercicio 11](Imagens/11R.png)
 
 ## 12 - Buscar o nome do filme e os atores, trazendo o PrimeiroNome, UltimoNome e seu Papel
 
-![Exercicio 12](Imagens/12.png)
+![Resposta Exercicio 12](Imagens/12R.png)
